@@ -2,6 +2,17 @@
 
 Bu proje, yapay zeka kullanarak farklı dillerdeki mangaları veya çizgi romanları herhangi bir dile çevirir.
 
+# ÖZELLİKLER
+
+
+* OCR
+
+Resimlerdeki metinleri çıkarmak için OCR kullanılmaktadır. Bu projede EasyOCR kütüphanesi tercih ettim. 
+
+* Çevri 
+
+Çevri için transformırs kütüphanesi ile farklı dil modellerini çevri için kullanıyorum.
+
 
 # Gereksinimler
 
