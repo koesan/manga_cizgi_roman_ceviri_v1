@@ -29,10 +29,8 @@ textwrap3==0.9.2
 
 # İnput:
 
-[file:///home/koesan/%C4%B0ndirilenler/manga_cizgi_roman_ceviri-main/manga/2.jpg
-
 ![1](https://github.com/koesan/manga_cizgi_roman_ceviri_v1/blob/main/manga/2.jpg)
 
 # Output:
 
-![1](https://github.com/koesan/manga_cizgi_roman_ceviri/raw/main/resimler/4.jpg)
+![1](https://github.com/koesan/manga_cizgi_roman_ceviri_v1/blob/main/cevri_manga/2.jpg)
