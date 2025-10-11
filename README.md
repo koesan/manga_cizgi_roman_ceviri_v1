@@ -10,11 +10,11 @@ Automatically translate manga and comics from any language to any language using
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.9-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat)](LICENSE)
 
-[![Demo Video](https://img.shields.io/badge/Demo%20Video-▶️-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/koesan/Evoars/blob/main/images/Demo.mp4)
-
 ## 📎 Live Demo - Canlı Demo
 
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Demo-yellow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/koesan/mangaspaces)
+
+[![Demo Video](https://img.shields.io/badge/Demo%20Video-▶️-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/koesan/Evoars/blob/main/images/Demo.mp4)
 
 **🇬🇧 Try the previous version of Evoars on Hugging Face (CPU-based, processing may be slower)**  
 **🇹🇷 Evoars'ın önceki sürümünü Hugging Face'te test edin (CPU tabanlı, işlem daha yavaş olabilir)**
