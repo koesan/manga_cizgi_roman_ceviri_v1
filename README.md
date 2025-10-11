@@ -19,7 +19,7 @@ Automatically translate manga and comics from any language to any language using
 **🇬🇧 Try the previous version of Evoars on Hugging Face (CPU-based, processing may be slower)**  
 **🇹🇷 Evoars'ın önceki sürümünü Hugging Face'te test edin (CPU tabanlı, işlem daha yavaş olabilir)**
 
-These repositories contain earlier versions of the project (archived/previous work):
+These repositories contain current and active versions of the project.
 
 [Manga Comic Colorization and Translation v2](https://github.com/koesan/Manga_Comic_Colorization_and_Translation_v2)
 
