@@ -2,15 +2,13 @@
 
 # Manga & Comic Translator
 
+Automatically translate manga and comics from any language to any language using OCR and machine translation.
+
 [![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![EasyOCR](https://img.shields.io/badge/EasyOCR-1.7.1-FF6B6B?style=flat&logo=text&logoColor=white)](https://github.com/JaidedAI/EasyOCR)
 [![Transformers](https://img.shields.io/badge/🤗_Transformers-4.41.1-FFD21E?style=flat)](https://huggingface.co/transformers/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.9-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat)](LICENSE)
-
-### AI-Powered Manga and Comic Translation
-
-Automatically translate manga and comics from any language to any language using OCR and machine translation.
 
 [![Demo Video](https://img.shields.io/badge/Demo%20Video-▶️-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/koesan/Evoars/blob/main/images/Demo.mp4)
 
