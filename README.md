@@ -12,6 +12,20 @@
 
 Automatically translate manga and comics from any language to any language using OCR and machine translation.
 
+[![Demo Video](https://img.shields.io/badge/Demo%20Video-▶️-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/koesan/Evoars/blob/main/images/Demo.mp4)
+
+## 📎 Live Demo - Canlı Demo
+
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Demo-yellow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/koesan/mangaspaces)
+
+**🇬🇧 Try the previous version of Evoars on Hugging Face (CPU-based, processing may be slower)**  
+**🇹🇷 Evoars'ın önceki sürümünü Hugging Face'te test edin (CPU tabanlı, işlem daha yavaş olabilir)**
+
+These repositories contain earlier versions of the project (archived/previous work):
+
+[Manga Comic Colorization and Translation v2](https://github.com/koesan/Manga_Comic_Colorization_and_Translation_v2)
+
+[manga_cizgi_roman_ceviri_v1](https://github.com/koesan/manga_cizgi_roman_ceviri_v1)
 ---
 
 **[English](#english)** | **[Türkçe](#turkish)**
